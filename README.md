@@ -16,4 +16,4 @@
 
 *OUTPUT:
 
-<img width="1016" height="696" alt="Image" src="https://github.com/user-attachments/assets/4adc2021-56d0-4aa8-b975-a2ea0c2bbb19" />
+<img width="1084" height="588" alt="Image" src="https://github.com/user-attachments/assets/8f00073d-d558-4919-b93f-fb22da6ee8a7" />
