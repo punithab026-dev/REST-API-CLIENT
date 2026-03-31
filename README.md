@@ -13,3 +13,7 @@
 *MENTOR*: NEELA SANTHOSH
 
 *DESCRIPTION:Java application that consumes a public REST API (Open-Meteo) to fetch and display real-time weather data in a structured format. Demonstrates HTTP requests, JSON parsing with Gson, and clean console output.
+
+*OUTPUT:
+
+<img width="1016" height="696" alt="Image" src="https://github.com/user-attachments/assets/4adc2021-56d0-4aa8-b975-a2ea0c2bbb19" />
